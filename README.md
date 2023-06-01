@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on the [Albany Area Chess Club site](https://albanychess.netlify.app/) and [UEB reference](https://braille.netlify.app/)
-- 🌱 I’m currently learning [javascript](https://www.codeguage.com/courses/js/)
+- 🔭 Working on the [Albany Area Chess Club site](https://albanychess.netlify.app/) and [UEB reference](https://braille.netlify.app/)
+- 🌱 Learning [javascript](https://www.codeguage.com/courses/js/) and [SQL](https://app.datacamp.com/profile/smolcodes)
 - 🧠 I'm pretty good with HTML and CSS
 - 😄 Pronouns: she/her
 
